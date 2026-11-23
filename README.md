@@ -65,7 +65,3 @@ Pressione `q` para encerrar a captura.
 ### 4. Abrir o aplicativo no Kodular
 Importe `app/AlertDriverV3.aia` no [Kodular Creator](https://creator.kodular.io/). Caso utilize a tela de mapa (`Mapa`), configure sua própria chave do Google Maps nas propriedades do projeto antes de compilar.
 
-## Equipe
-- **Luiz Gustavo de Andrade dos Santos**
-- **Luiz Antonio Zilli**
-- **Manuella Ariotti**
